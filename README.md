@@ -11,5 +11,5 @@ Links relacionados:
 * artigo: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0178691 
 * Vídeo crescimento rã: https://www.youtube.com/watch?v=DT3nxBGXwM8
 * Vídeo crescimento planta: https://www.youtube.com/watch?v=w77zPAtVTuI
-* Geogebra: https://www.geogebra.org/u/carloszarzar_
+* Geogebra: https://www.geogebra.org/u/carloszarzar_ 
 
